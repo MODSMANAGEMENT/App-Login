@@ -1,0 +1,17 @@
+ACTION PLAN 15.3.06
+
+LOGIN SCREEN 
+- Add Joint Integrity logo
+
+SYNC SCREEN 
+- Find out how to add multi line text box
+- Button to be split into 'Sync up' and 'Sync Down'
+
+SYNC DOWN
+- This part will require filters to select 
+	- tick boxes/drop down menu
+- Add screen Joint Locator - for scanning barcodes
+	- This will pull in all of the information and display on screen before Sync 
+
+- Figure out a way to multi-view 
+
